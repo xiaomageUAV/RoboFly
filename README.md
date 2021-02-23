@@ -1,5 +1,3 @@
-![image](https://github.com/xiaomageUAV/RoboFly/blob/master/04_images/top_3d%20(2).PNG)
-![image](https://github.com/xiaomageUAV/RoboFly/blob/master/04_images/3d.PNG)
 ![image](https://github.com/xiaomageUAV/RoboFly/blob/master/04_images/top_3d.PNG)
 
 # 简介
