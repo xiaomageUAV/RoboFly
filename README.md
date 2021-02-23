@@ -1,9 +1,3 @@
-![3d](F:\0004_开源F1小四轴RoboFly\github\RoboFly\04_photos\3d.PNG)
-
-![top_3d (2)](F:\0004_开源F1小四轴RoboFly\github\RoboFly\04_photos\top_3d (2).PNG)
-
-
-
 # 简介
 
 RoboFly是小马哥在2018年8月推出的一款完全开源的小四轴。
@@ -22,11 +16,7 @@ RoboFly是小马哥在2018年8月推出的一款完全开源的小四轴。
 
 无线通讯：2.4G
 
-
-
-# ![image-20210223130944976](C:\Users\mzw\AppData\Roaming\Typora\typora-user-images\image-20210223130944976.png)
-
-
+![image-20210223130944976](C:%5CUsers%5Cmzw%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20210223130944976.png)
 
 # 开发说明
 
@@ -48,4 +38,3 @@ PCB为两层板，通用工艺，基本上所有板厂都可以加工打样，�
 
 ###### 注意事项：气压计1脚标识在肚子上，而不是铁壳上的气孔。如果错误的把气孔当作1脚标识，可能会焊接反了导致板子上3.3V对地短路。
 
-![Assembly drawing](F:\0004_开源F1小四轴RoboFly\github\RoboFly\04_photos\Assembly drawing.png)
