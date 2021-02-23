@@ -1,13 +1,12 @@
-
-
+![image](https://github.com/xiaomageUAV/RoboFly/blob/master/04_images/top_3d%20(2).PNG)
 ![image](https://github.com/xiaomageUAV/RoboFly/blob/master/04_images/3d.PNG)
+![image](https://github.com/xiaomageUAV/RoboFly/blob/master/04_images/top_3d.PNG)
 
 # 简介
 
 RoboFly是小马哥在2018年8月推出的一款完全开源的小四轴。
 
 这款小四轴开发的初衷是为了让大家更低成本的通过一个完整的小项目来学习电路板设计、STM32编程开发、四轴飞行器的基本原理等知识。
-
 
 
 # RoboFly的硬件架构
@@ -20,6 +19,7 @@ RoboFly是小马哥在2018年8月推出的一款完全开源的小四轴。
 
 无线通讯：2.4G
 
+![image](https://github.com/xiaomageUAV/RoboFly/blob/master/04_images/hardwareframe.png)
 
 # 开发说明
 
@@ -29,7 +29,7 @@ RoboFly是小马哥在2018年8月推出的一款完全开源的小四轴。
 
 因尺寸限制，STM32F013C8T6下载程序接口为SH1.0 5P端子口，配合e-Link32烧录器进行下载即可。
 
-
+![image](https://github.com/xiaomageUAV/RoboFly/blob/master/04_images/top_smt.JPG)
 
 # 打样焊接装配说明
 
@@ -41,3 +41,4 @@ PCB为两层板，通用工艺，基本上所有板厂都可以加工打样，�
 
 ###### 注意事项：气压计1脚标识在肚子上，而不是铁壳上的气孔。如果错误的把气孔当作1脚标识，可能会焊接反了导致板子上3.3V对地短路。
 
+![image](https://github.com/xiaomageUAV/RoboFly/blob/master/04_images/Assembly%20drawing.png)
